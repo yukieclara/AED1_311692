@@ -6,8 +6,8 @@ Problema    : https://judge.beecrowd.com/pt/problems/view/1466
 Data        : 22/10/2026
 Objetivo    : Montar uma árvore binária de busca com os números recebidos e 
 imprimir os valores por nível, da raiz até as folhas, da esquerda pra direta. 
-Dificuldade : 
-Uso de IA   : 
+Dificuldade : Entender o BFS e conseguir fazer
+Uso de IA   : Para aprender melhor o BFS e corrigir.
 -------------------------------------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
